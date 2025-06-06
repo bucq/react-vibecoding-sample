@@ -1,0 +1,3 @@
+[
+  { "id": "res-mock1", "roomId": "room1", "userId": "user123", "date": "2024-03-20", "startTime": "10:00", "endTime": "11:00", "title": "Existing Mock Meeting" }
+]
